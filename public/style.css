@@ -1,0 +1,27 @@
+body {
+  background-color: #151515;
+}
+
+* {
+  color: white;
+}
+
+.heading,
+#notice {
+  flex: auto;
+  align-items: center;
+  width: auto;
+}
+
+.heading>h1,
+h2 {
+  margin: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+#notice>h1 {
+
+  text-align: center;
+}
