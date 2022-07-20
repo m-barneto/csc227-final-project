@@ -15,7 +15,7 @@ function formatDate(date) {
 
 const callAPI = async (geo) => {
   let apiKey = "1ee338a7093146fdbc1213753222007";
-  fetch(`http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${geo.coords.latitude},${geo.coords.longitude}`)
+  fetch(`https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${geo.coords.latitude},${geo.coords.longitude}`)
     .then(res => res.json())
     .then(data => {
       notice.remove();
