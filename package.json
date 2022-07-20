@@ -11,5 +11,8 @@
     "url": "\u001b[3;2~\u001b[3~\u0016https://github.com/m-barneto/csc227-final-project.git"
   },
   "author": "Matthew Barneto",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
