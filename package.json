@@ -1,0 +1,15 @@
+{
+  "name": "csc227-final-project",
+  "version": "1.0.0",
+  "description": "CSC227 Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[3;2~\u001b[3~\u0016https://github.com/m-barneto/csc227-final-project.git"
+  },
+  "author": "Matthew Barneto",
+  "license": "ISC"
+}
